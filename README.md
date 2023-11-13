@@ -40,7 +40,7 @@ java -jar /your_calculator_directory/SimpleJavaCalculator.jar`
 ### Modifications and Improvements
 
 - [Achintha Gunasekara](http://www.achinthagunasekara.com)
-- [xdvrx1](https://github.com/xdvrx1)
+- [xdvrx1](https://github.com/xdvrx2)
 
 
 ## 📮 Contact
